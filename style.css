@@ -1,0 +1,88 @@
+.topo{
+    background-color: #070707;
+}
+.menu{
+    margin-top: 40px;
+}
+.menu a:hover{
+    border-bottom: 3px solid #5600c6;
+}
+.menu a{
+   
+    text-transform: uppercase;
+    color: #7c3cb8;
+    align-items: flex-end;
+    text-decoration: none;
+    font-size: 18px;
+    text-transform: uppercase;
+    padding-right: 10px; 
+
+}
+.redes img{
+    padding: 10px;
+}
+input{
+background-image: url(../img/icone-search.png);
+background-repeat: no-repeat;
+height: 36px;
+padding: 12px;
+width: 190px; 
+margin-top: 35px;
+background-position: 96%;
+border: 2px solid #5600c6;
+}
+
+body{
+    background-color: rgb(34, 34, 34);
+    color: white;
+    font-family: poppinsregular;
+}
+
+ body button {
+    background-color: #5600c6;
+    padding: 1rem 3rem 1rem 3rem;
+    border: none;
+    border-radius: 5px;
+    color: rgb(252, 252, 252);
+    font-size: 1rem;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.col-md-8 {
+    height: 80px;
+}
+
+.col-md-8 ul li a:hover {
+    color: #5600c6;
+}
+
+.col-md-8 ul li a {
+    text-decoration: none;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+h1{
+    text-align: center;
+    color: #6f0dca;
+    margin-bottom: 50px;
+}   
+
+
+ .produto{
+    width: 230px;
+    margin:0 auto;
+    text-align: center;
+    margin-bottom: 50px;
+ }  
+
+ .produto button:hover{
+    background-color: #ad8fd4;
+    transform: scaleY(1.2);
+} 
+
+footer{
+    background-color: #865abe;
+    color: #c1c1c1;
+}
